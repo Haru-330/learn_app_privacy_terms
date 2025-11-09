@@ -4,5 +4,4 @@ description: アプリのプライバシーポリシーと利用規約のペー�
 show_downloads: false
 url: "https://learn.harutech.net"
 baseurl: ""
-theme: minima
 markdown: kramdown
