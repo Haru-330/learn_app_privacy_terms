@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 利用規約
-permalink: /terms/
+permalink: /learn_app_privacy_terms/terms/
 ---
 
 # 利用規約

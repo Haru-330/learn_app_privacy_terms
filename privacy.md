@@ -1,7 +1,7 @@
 ---
 layout: page
 title: プライバシーポリシー
-permalink: /privacy/
+permalink: /learn_app_privacy_terms/privacy/
 ---
 
 # プライバシーポリシー
