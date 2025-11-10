@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 利用規約
-permalink: /terms/
+permalink: /terms
 ---
 
 # 利用規約

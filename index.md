@@ -3,5 +3,5 @@ layout: home
 title: ホーム
 ---
 
-- [プライバシーポリシー](/privacy/)
-- [利用規約](/terms/)
+- [プライバシーポリシー](/privacy)
+- [利用規約](/terms)
