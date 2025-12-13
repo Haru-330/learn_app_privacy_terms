@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: アプリのプライバシーポリシーと利用規約
 description: アプリのプライバシーポリシーと利用規約のページです。
 show_downloads: false
-url: "https://learn.harutech.net"
+url: "https://policy.haruapp.com"
 baseurl: ""
 markdown: kramdown
