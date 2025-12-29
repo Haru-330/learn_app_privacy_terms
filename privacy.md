@@ -67,3 +67,5 @@ Haru App Works（以下「当方」）は、提供するスマートフォンア
 - メールアドレス：support@haruapp.com  
 
 以上
+
+制定日：2025年12月29日
