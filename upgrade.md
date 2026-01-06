@@ -28,10 +28,11 @@ Colors from DicstaTheme
 Basic Reset
 ------------------------- \*/
 body {
-margin: 0;
-font-family: Arial, sans-serif;
-background-color: var(--background-light);
-color: var(--on-background-light);
+  background-color: #ffffff; /* 完全に白 */
+}
+
+.dialog-content {
+  margin-top: 16px; /* 上切れ防止 */
 }
 
       /* -------------------------
@@ -52,17 +53,6 @@ overflow-y: auto;
 padding: 20px;
 box-sizing: border-box;
 }
-
-      .dialog-content {
-        background-color: var(--surface-light);
-        border-radius: 12px;
-        width: 100%;
-        max-width: 480px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-      }
 
       /* -------------------------
 
