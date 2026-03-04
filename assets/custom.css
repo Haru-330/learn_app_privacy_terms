@@ -8,8 +8,8 @@
   --text-color: #ffffff;
 }
 
-:root[data-theme="dark"] .widget_privacy,
-:root[data-theme="dark"] .widget_terms {
+:root[data-theme="dark"]:has(.widget_privacy),
+:root[data-theme="dark"]:has(.widget_terms) {
   --bg-color: #1a1a1a;
 }
 
